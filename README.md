@@ -1,2 +1,2 @@
 # prework-study-guide
-Bootcamp study guide prework. Bitmingham Iniversity/edX
+Bootcamp study guide prework. Birmingham University/edX
